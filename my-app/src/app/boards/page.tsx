@@ -1,5 +1,7 @@
 "use client";
 
+// 수정하기연습
+
 import { useState } from "react";
 import Image from "next/image";
 
